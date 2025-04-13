@@ -4,8 +4,6 @@
 I’m a results-driven Retail Manager with a deep interest in technology and a passion for solving complex problems
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
@@ -13,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and compliance checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
+| Controls and Compliance Checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
