@@ -12,7 +12,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Controls and Compliance Checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
