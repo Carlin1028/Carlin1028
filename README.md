@@ -26,5 +26,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 https://coursera.org/share/59be7aff12768aae90d18729795bbea8
-
+https://coursera.org/share/7e07b5b44134b5cd5fec240bbaccef7c
 ## Projects
