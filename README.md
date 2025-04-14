@@ -39,7 +39,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
 <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Play_It_Safe:_Manage_Security_Risks-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Play_It_Safe:_Manage_Security_Risks-2E3440?&style=for-the-badge&logo=SimpleIcons&logoColor=white&labelColor=FF5555" />
 
 </div>
 
