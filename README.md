@@ -10,6 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Controls and Compliance Checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
+| Cybersecurity incident report network traffic analysis         | <a href="https://docs.google.com/document/d/1dExaWjEzeSqZ5dLyQQnhDjPhZgztblNyFaszjnG6k3k/edit?usp=sharing)">Detection Lab|
 
 ## Tools
 
