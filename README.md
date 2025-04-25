@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Controls and Compliance Checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
 | Cybersecurity Incident Report: Network Traffic Analysis         | <a href="https://docs.google.com/document/d/1dExaWjEzeSqZ5dLyQQnhDjPhZgztblNyFaszjnG6k3k/edit?usp=sharing)">Detection Lab|
 | Cybersecurity Incident Report: Network Attacks       | <a href="https://docs.google.com/document/d/19Wni-q92BtyCxnU7YyN9Qo7rxV--lRKnTG0XeQjfrUc/edit?usp=drive_link)">Detection Lab|
-| Security Incident Report       | <a href=https://docs.google.com/document/d/1DWLe4jJESsiwSaPiuR2xnGbdeOx3Pp47ylm28oMxF-0/edit?usp=sharing")">Detection Lab|
+| Security Incident Report       | <a href="https://docs.google.com/document/d/1DWLe4jJESsiwSaPiuR2xnGbdeOx3Pp47ylm28oMxF-0/edit?usp=sharing)">Detection Lab|
 
 ## Tools
 
