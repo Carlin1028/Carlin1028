@@ -14,6 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Cybersecurity Incident Report: Network Attacks       | <a href="https://docs.google.com/document/d/19Wni-q92BtyCxnU7YyN9Qo7rxV--lRKnTG0XeQjfrUc/edit?usp=drive_link)">Detection Lab|
 | Security Incident Report       | <a href="https://docs.google.com/document/d/1DWLe4jJESsiwSaPiuR2xnGbdeOx3Pp47ylm28oMxF-0/edit?usp=sharing)">Detection Lab|
 | Security Risk Assessment       | <a href="https://docs.google.com/document/d/14kl7Xa9lzxAXWzIrFWWqS50X8ACsm0ICcF7A9jQFuv4/edit?usp=sharing)">Detection Lab|
+| Incident Report Analysis      | <a href="https://docs.google.com/document/d/1AfBbl597VC9drnOpy0RTA3d6AnQoUPef8YrifhqyJBc/edit?usp=drive_link)">Detection Lab|
+
 
 ## Tools
 
