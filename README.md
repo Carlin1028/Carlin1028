@@ -16,13 +16,13 @@ My background in Information Technology and Networking has developed my interest
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and Compliance Checklist          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Detection Lab|
-| Cybersecurity Incident Report: Network Traffic Analysis         | <a href="https://docs.google.com/document/d/1dExaWjEzeSqZ5dLyQQnhDjPhZgztblNyFaszjnG6k3k/edit?usp=sharing)">Detection Lab|
-| Cybersecurity Incident Report: Network Attacks       | <a href="https://docs.google.com/document/d/19Wni-q92BtyCxnU7YyN9Qo7rxV--lRKnTG0XeQjfrUc/edit?usp=drive_link)">Detection Lab|
-| Security Incident Report       | <a href="https://docs.google.com/document/d/1DWLe4jJESsiwSaPiuR2xnGbdeOx3Pp47ylm28oMxF-0/edit?usp=sharing)">Detection Lab|
-| Security Risk Assessment       | <a href="https://docs.google.com/document/d/14kl7Xa9lzxAXWzIrFWWqS50X8ACsm0ICcF7A9jQFuv4/edit?usp=sharing)">Detection Lab|
-| Incident Report Analysis      | <a href="https://docs.google.com/document/d/1AfBbl597VC9drnOpy0RTA3d6AnQoUPef8YrifhqyJBc/edit?usp=drive_link)">Detection Lab|
-| File permissions in Linux      | <a href="https://docs.google.com/document/d/1OCJdmdhm1WiJG4ttqqeXf4XNxcrd1p9u-udLMJ3pxWA/edit?usp=sharing)">Detection Lab|
+| Malware & Web Traffic Investigation       | <a href="https://docs.google.com/document/d/1DWLe4jJESsiwSaPiuR2xnGbdeOx3Pp47ylm28oMxF-0/edit?usp=sharing)">Malware Incident Analysis|
+| DDoS Incident Analysis & Response       | <a href="https://docs.google.com/document/d/1AfBbl597VC9drnOpy0RTA3d6AnQoUPef8YrifhqyJBc/edit?usp=drive_link)">ICMP Flood Investigation|
+| Network Traffic & Protocol Analysis       | <a href="https://docs.google.com/document/d/1dExaWjEzeSqZ5dLyQQnhDjPhZgztblNyFaszjnG6k3k/edit?usp=sharing)">DNS Traffic Investigation|
+| Network Attack Analysis       | <a href="https://docs.google.com/document/d/19Wni-q92BtyCxnU7YyN9Qo7rxV--lRKnTG0XeQjfrUc/edit?usp=drive_link)">SYN Flood Investigation|
+| Linux File Permission & Access Control      | <a href="https://docs.google.com/document/d/1OCJdmdhm1WiJG4ttqqeXf4XNxcrd1p9u-udLMJ3pxWA/edit?usp=sharing)">Linux Permissions|
+| Security Hardening & Risk Assessment       | <a href="https://docs.google.com/document/d/14kl7Xa9lzxAXWzIrFWWqS50X8ACsm0ICcF7A9jQFuv4/edit?usp=sharing)">Security Risk Assessment|
+| Security Controls & Compliance Assessment          | <a href="https://docs.google.com/document/d/1auY1rV1FQQoorl_NJLrtOOm_ms6jlXfpublLpuZREoI/edit?usp=sharing">Botium Toys Security Audit|
 
 
 ## Tools
@@ -33,12 +33,16 @@ My background in Information Technology and Networking has developed my interest
 
 </div>
 
-### Programming Languages
+### Languages & Scripting
 <div>
    <img src="https://img.shields.io/badge/-SQL-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Linux-00A4EF?&style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-00A4EF?&style=for-the-badge&logo=Python&logoColor=white" />
 
+</div>
+
+### Operating Systems
+<div>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 
 </div>
 
@@ -48,10 +52,8 @@ My background in Information Technology and Networking has developed my interest
 </div>
 
 ## Certifications
-
 <div>
-<img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Play_It_Safe:_Manage_Security_Risks-2E3440?&style=for-the-badge&logo=SimpleIcons&logoColor=white&labelColor=FF5555" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
