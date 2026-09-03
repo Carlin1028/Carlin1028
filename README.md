@@ -8,7 +8,7 @@ training in system administration, networking, security monitoring, digital
 forensics, audit log review, system hardening, and technical
 troubleshooting. Proven ability to identify problems, document solutions,
 train users, manage technology-dependent operations, and lead cross-
-functional teams..
+functional teams.
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
