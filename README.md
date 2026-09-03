@@ -66,3 +66,12 @@ Conducted a simulated Tier 1 SOC phishing investigation by analyzing phishing in
 **Skills demonstrated:** Phishing Analysis • IOC Identification • Threat Intelligence • Incident Response • Security Documentation
 
 [View Phishing Email Analysis Project](https://github.com/Carlin1028/Phishing-Email-Analysis)
+
+
+### 🔐 Brute-Force Login Investigation
+
+Investigated suspicious Windows authentication activity by analyzing Windows Security Event Logs. Identified repeated Event ID 4625 failed logon attempts, analyzed the source IP address, network logon activity, and NTLM authentication, and developed incident response recommendations.
+
+**Skills demonstrated:** Windows Event Log Analysis • Brute-Force Detection • Authentication Analysis • IOC Identification • NTLM • Incident Response • Security Documentation
+
+[View Brute-Force Login Investigation Project](https://github.com/Carlin1028/Brute-Force-Login-Investigation)
