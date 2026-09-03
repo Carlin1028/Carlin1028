@@ -58,3 +58,11 @@ My background in Information Technology and Networking has developed my interest
 </div>
 
 ## Projects
+
+### 🔎 Phishing Email Analysis
+
+Conducted a simulated Tier 1 SOC phishing investigation by analyzing phishing indicators, identifying Indicators of Compromise (IOCs), performing domain reputation analysis with VirusTotal, and developing incident response recommendations.
+
+**Skills demonstrated:** Phishing Analysis • IOC Identification • Threat Intelligence • Incident Response • Security Documentation
+
+[View Phishing Email Analysis Project](PASTE-YOUR-GITHUB-PROJECT-LINK-HERE)
