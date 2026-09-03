@@ -65,4 +65,4 @@ Conducted a simulated Tier 1 SOC phishing investigation by analyzing phishing in
 
 **Skills demonstrated:** Phishing Analysis • IOC Identification • Threat Intelligence • Incident Response • Security Documentation
 
-[View Phishing Email Analysis Project](PASTE-YOUR-GITHUB-PROJECT-LINK-HERE)
+[View Phishing Email Analysis Project](https://github.com/Carlin1028/Phishing-Email-Analysis)
