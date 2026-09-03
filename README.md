@@ -11,7 +11,7 @@ train users, manage technology-dependent operations, and lead cross-
 functional teams.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in Information Technology and Networking has developed my interest in cybersecurity. After earning my CompTIA Security+ certification, I am focused on transitioning into a Security Operations Center (SOC) role as a Tier 1 Analyst, where I can apply my skills in networking, security monitoring, incident analysis, and troubleshooting while continuing to grow as a cybersecurity professional.
 
 ## Skills
 | Skill                                         | Associated Project         |
