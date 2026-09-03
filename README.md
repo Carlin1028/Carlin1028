@@ -1,7 +1,14 @@
 # Hello, I'm Carlin
 <a href="https://linkedin.com/in/carlin-bunn-b53684221"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a results-driven retail manager with a deep interest in technology and a passion for solving complex problems.
+CompTIA Security+ certified information technology professional with an
+Associate of Applied Science in Information Technology & Networking
+and extensive leadership experience in high-volume operations. Hands-on
+training in system administration, networking, security monitoring, digital
+forensics, audit log review, system hardening, and technical
+troubleshooting. Proven ability to identify problems, document solutions,
+train users, manage technology-dependent operations, and lead cross-
+functional teams..
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
